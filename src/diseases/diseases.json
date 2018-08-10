@@ -1,0 +1,240 @@
+{
+    "level1": [
+        {
+            "id": "d2",
+            "name": "Level 1itis",
+            "level": 1,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        },
+        {
+            "id": "d2",
+            "name": "Level 1itis 2.0",
+            "level": 1,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        },
+        {
+            "id": "d3",
+            "name": "Level 1itis 3.0",
+            "level": 1,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level2": [
+        {
+            "id": "d4",
+            "name": "Level 2itis",
+            "level": 2,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level3": [
+        {
+            "id": "d5",
+            "name": "Level 3itis",
+            "level": 3,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level4": [
+        {
+            "id": "d6",
+            "name": "Level 4itis",
+            "level": 4,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level5": [
+        {
+            "id": "d7",
+            "name": "Level 5itis",
+            "level": 5,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level6": [
+        {
+            "id": "d8",
+            "name": "Level 6itis",
+            "level": 6,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level7": [
+        {
+            "id": "d9",
+            "name": "Level 7itis",
+            "level": 7,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level8": [
+        {
+            "id": "d10",
+            "name": "Level 8itis",
+            "level": 8,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level9": [
+        {
+            "id": "d11",
+            "name": "Level 9itis",
+            "level": 9,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level10": [
+        {
+            "id": "d12",
+            "name": "Level 10itis",
+            "level": 10,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level11": [
+        {
+            "id": "d13",
+            "name": "Level 11itis",
+            "level": 11,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level12": [
+        {
+            "id": "d14",
+            "name": "Level 12itis",
+            "level": 12,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level13": [
+        {
+            "id": "d15",
+            "name": "Level 13itis",
+            "level": 13,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level14": [
+        {
+            "id": "d16",
+            "name": "Level 14itis",
+            "level": 14,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level15": [
+        {
+            "id": "d17",
+            "name": "Level 15itis",
+            "level": 15,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level16": [
+        {
+            "id": "d18",
+            "name": "Level 16itis",
+            "level": 16,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level17": [
+        {
+            "id": "d19",
+            "name": "Level 17itis",
+            "level": 17,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level18": [
+        {
+            "id": "d20",
+            "name": "Level 18itis",
+            "level": 18,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level19": [
+        {
+            "id": "d21",
+            "name": "Level 19itis",
+            "level": 19,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ],
+    "level20": [
+        {
+            "id": "d22",
+            "name": "Level 20itis",
+            "level": 20,
+            "save": "Con 14",
+            "onset": "1d6 hours",
+            "frequency": "1 / day",
+            "description": "Integer eget arcu eu ex dapibus posuere. Aliquam erat volutpat. Suspendisse potenti. Vestibulum lectus purus, sagittis sit amet orci vitae, porttitor euismod tellus. Fusce vitae purus vel ligula posuere facilisis. Quisque eu sapien ac elit sodales condimentum. Ut tincidunt nec eros a tincidunt. Donec nec bibendum sapien, nec bibendum dui. Nulla eu metus eget magna facilisis luctus lobortis at lorem. Phasellus sagittis quam ut magna condimentum auctor. Quisque fringilla elit quis diam auctor, quis egestas augue volutpat. Nam mattis hendrerit metus eget dictum. Etiam condimentum mi et dolor ullamcorper, ac interdum quam efficitur. Donec vel varius velit. Praesent aliquam feugiat risus sit amet interdum."
+        }
+    ]
+}

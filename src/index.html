@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Antipaladin Aides</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Start your project here-->
+    <!-- <div style="height: 100vh">
+        <div class="flex-center flex-column">
+            <h1 class="animated fadeIn mb-4">Material Design for Bootstrap</h1>
+
+            <h5 class="animated fadeIn mb-3">Thank you for using our product. We're glad you're with us.</h5>
+
+            <p class="animated fadeIn text-muted">MDB Team</p>
+        </div>
+    </div> -->
+
+    <!--Main Navigation-->
+    <header>
+    </header>
+    <!--Main Navigation-->
+
+    <!--Main layout-->
+    <main>
+        <!--Main container-->
+        <div class="container mt-3">
+
+            <!-- ANTIPALADIN LEVEL -->
+            <!--Grid row-->
+            <div class="row my-2 align-items-center">
+                <!--Grid column-->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2">
+                    <label for="antipaladinLevel" class="grey-text text-nowrap">Antipaladin Level</label>
+
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col">
+                    <input type="number" id="antipaladinLevel" class="form-control" min="1" max="20">
+                    <!-- Make a dropdown for 1/4, 1/3, and 1/2 CR ? Instead of Level?? -->
+
+                </div>
+                <!--Grid column-->
+
+            </div>
+            <!--Grid row-->
+            <!-- END ANTIPALADIN LEVEL -->
+
+            <!-- NUMBER OF DISEASES -->
+            <!--Grid row-->
+            <div class="row my-2 align-items-center">
+                <!--Grid column-->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2">
+                    <label for="numberOfDiseases" class="grey-text text-nowrap">Number of Diseases</label>
+
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col">
+                    <input type="number" id="numberOfDiseases" class="form-control" min="1" max="20">
+
+                </div>
+                <!--Grid column-->
+
+            </div>
+            <!--Grid row-->
+            <!-- END OF NUMBER OF DISEASES -->
+
+            <!-- GENERATE DISEASES SUBMISSION -->
+            <!--Grid row-->
+            <div class="row my-2 align-items-center">
+
+                <!--Grid column-->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2">
+                    Infect Antipaladin
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col">
+                    <button id="generateDiseases" class="btn btn-unique btn-sm waves-effect waves-light">
+                        <i class="fa fa-bug fa-2x"></i>
+                    </button>
+
+                </div>
+                <!--Grid column-->
+
+            </div>
+            <!--Grid row-->
+            <!-- END OF GENERATE DISEASES SUBMISSION -->
+
+            <!-- DISEASE LISTING -->
+            <!--Grid row-->
+            <div class="row my-2">
+
+                <!--Grid column-->
+                <div class="col-12">
+                    <label for="diseaseCocktail" class="grey-text text-nowrap">Disease Cocktail</label>
+                    <div class="card">
+                        <div class="card-body" id="diseaseCocktail">
+
+                            <!-- Disease Entry -->
+                            <div class="card text-white mb-3">
+
+                                <!-- Disease Header -->
+                                <div class="card-header pb-0 bg-unique">
+                                    <div class="d-flex">
+                                        <label class="mx-auto text-nowrap">No Diseases... Yet.</label>
+                                        <!-- TODO: Fix at smallest to be full col width. Change d-flex to cols??  -->
+                                    </div>
+                                </div>
+                                <!-- Disease Header -->
+
+                            </div>
+                            <!-- Disease Entry -->
+
+                        </div>
+                    </div>
+
+                </div>
+                <!--Grid column-->
+
+            </div>
+            <!--Grid row-->
+            <!-- END DISEASE LISTING -->
+
+        </div>
+        <!--Main container-->
+    </main>
+    <!--Main layout-->
+
+    <!--Footer-->
+    <footer>
+
+    </footer>
+    <!--Footer-->
+    <!-- /Start your project here-->
+
+    <!-- SCRIPTS -->
+    <!-- Electron -->
+    <script>require('./renderer')</script>
+    <!-- JQuery -->
+    <!-- In Electron, this is the correct way to include jQuery -->
+    <script>window.$ = window.jQuery = require('./js/jquery-3.3.1.min.js');</script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="./js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="./js/mdb.min.js"></script>
+</body>
+
+</html>
