@@ -21,6 +21,6 @@ Thumbs.db
 .vscode
 
 # Dependencies
-node_modules
+node_modules/
 
 # Compiled files
