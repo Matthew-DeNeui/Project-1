@@ -1,7 +1,31 @@
 const electron = require('electron')
+const $ = require('jquery')
 
 // ipc renderer
 const ipc = electron.ipcRenderer
+
+// form
+let form = $('#dzsform');
+let rules = {
+    rules : {
+        antipaladinLevel: {
+            required: true,
+            range: [1, 20]
+        },
+        numberOfDiseases: {
+            required: true,
+            range: [1, 20]
+        }
+    },
+    messages : {
+        antipaladinLevel: {
+            required: "Please enter a level for your antipaladin."
+        },
+        numberOfDiseases: {
+            required: "Please enter a number of diseases."
+        }
+    }
+}
 
 // card-body element
 const diseaseListingEl = document.getElementById('diseaseCocktail')
@@ -36,7 +60,7 @@ function formatDiseaseDiv(doc, disease) {
     diseaseBody.classList.add("card-body", "pt-2", "bg-unique-light")
 
     diseaseBody.innerHTML =
-    `<div class="row">
+        `<div class="row">
         <div class="col-12 col-md-4">
             <label class="text-nowrap mr-1">Save</label>
             <span id="saveDC" class="badge badge-pill badge-unique">${disease.save}</span>
@@ -65,10 +89,16 @@ function formatDiseaseDiv(doc, disease) {
 
 // click event for infect button
 document.getElementById('generateDiseases').addEventListener('click', _ => {
-    let level = document.getElementById('antipaladinLevel').value
-    let diseaseCount = document.getElementById('numberOfDiseases').value
-    /* TODO: VALIDATION!!! */
-    ipc.send('infect-antipaladin', level, diseaseCount)
+    form.validate(rules)
+    if (form.valid()) {
+        let level = document.getElementById('antipaladinLevel').value
+        let diseaseCount = document.getElementById('numberOfDiseases').value
+        console.log(form.valid(), level, diseaseCount)
+        ipc.send('infect-antipaladin', level, diseaseCount)
+    }
+    else {
+        console.log("form was invalid")
+    }
 })
 
 // populate card-body with diseases
