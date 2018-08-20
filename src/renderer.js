@@ -37,7 +37,7 @@ function diseaseListRemoveChildren() {
     }
 }
 
-function formatDiseaseDiv(doc, disease) {
+function formatDiseaseDiv(doc, disease, id) {
     const diseaseEntry = doc.createElement('div')
     diseaseEntry.classList.add("card", "text-white", "mb-3")
 
@@ -74,10 +74,10 @@ function formatDiseaseDiv(doc, disease) {
             <span id="frequency" class="badge badge-pill badge-unique">${disease.frequency}</span>
         </div>
     </div>
-    <button class="btn btn-unique btn-sm waves-effect waves-light descr-toggle" type="button" data-toggle="collapse" data-target="#${disease.id}description" aria-expanded="false" aria-controls="${disease.id}description">
+    <button class="btn btn-unique btn-sm waves-effect waves-light descr-toggle" type="button" data-toggle="collapse" data-target="#${id}description" aria-expanded="false" aria-controls="${id}description">
         Description
     </button>
-    <p class="card-text text-white mt-1 collapse" id="${disease.id}description">
+    <p class="card-text text-white mt-1 collapse" id="${id}description">
         ${disease.description}
     </p>`
 
@@ -106,9 +106,11 @@ ipc.on('antipaladin-infected', (evt, selectedDiseases) => {
     // clear out diseaseListingEl -- seperate function??
     diseaseListRemoveChildren()
 
+    let countID = 0;
     // add divs for each disease
     selectedDiseases.forEach(disease => {
-        diseaseListingEl.appendChild(formatDiseaseDiv(document, disease))
+        diseaseListingEl.appendChild(formatDiseaseDiv(document, disease, countID))
+        countID++
     });
 })
 
